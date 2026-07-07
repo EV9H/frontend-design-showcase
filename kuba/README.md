@@ -2,6 +2,6 @@
 
 An infinite canvas, directed by agents. Compose by hand, or by plain-language instruction — every shape stays vector-precise, and the whole document exports straight to HTML, PNG, or PDF.
 
-<video src="https://raw.githubusercontent.com/EV9H/frontend-design-showcase/main/kuba/landing-scroll.mp4" controls muted playsinline></video>
+https://github.com/user-attachments/assets/f99fb3b3-fad8-41dc-8056-630a5fa8846e
 
 *Landing page, scrolled top to bottom.*
